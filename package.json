@@ -1,0 +1,23 @@
+{
+  "name": "montana_code_school_week_10_project",
+  "version": "1.0.0",
+  "description": "my week 10 project for montana code school focused on javascript, DOM, and inner HTML",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pat-in-a-hat/week_10_dom_innerhtml_js.git"
+  },
+  "author": "Patrick Warner",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pat-in-a-hat/week_10_dom_innerhtml_js/issues"
+  },
+  "homepage": "https://github.com/pat-in-a-hat/week_10_dom_innerhtml_js#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.2",
+    "jquery": "^3.6.1"
+  }
+}
